@@ -168,3 +168,6 @@ Index of Open Datasets for Autonomous Driving : https://scale.com/open-datasets
 http://cvgl.stanford.edu/resources.html
 
 http://cvgl.stanford.edu/projects/pascal3d.html : RELATED DATASETS
+
+## Other Cite
+Collection and summary of vehicle information detection data set(https://www.programmersought.com/article/75633829259/)
